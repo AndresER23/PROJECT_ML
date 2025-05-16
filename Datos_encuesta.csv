@@ -1,0 +1,1522 @@
+Zona,Sexo,Localidad,Edad,Estrato,Considera_pobre,Nivel_seguridad_barrio,Pandillas,Atracos_callejeros,Robo_vehiculo,Asalto_casas,Asalto_tiendas,Homicidio,Trafico_drogas,Violaciones,Vandalismo,Guerrilla,Drogadiccion,Nivel_seguridad,Victima_delito,Transporte_habitual
+Centro oriental,Hombre,Barrios Unidos,40.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Occidental,Hombre,Kennedy,69.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Engativá,52.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Hombre,Bosa,58.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Centro oriental,Hombre,Teusaquillo,43.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro,Hombre,Los Mártires,73.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro,Hombre,Los Mártires,67.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Centro,Hombre,Los Mártires,34.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur oriental,Hombre,Rafael Uribe Uribe,38.0,3.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Sur occidental,Hombre,Tunjuelito,48.0,2.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Centro,Hombre,Los Mártires,70.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Norte,Hombre,Usaquén,32.0,2.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Norte,Hombre,Usaquén,28.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro oriental,Hombre,Chapinero,19.0,6.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,44.0,4.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Hombre,Antonio Nariño,27.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Norte,Hombre,Usaquén,51.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Caminar
+Centro,Hombre,Candelaria,27.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Occidental,Hombre,Engativá,49.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Centro oriental,Hombre,Teusaquillo,37.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Caminar
+Centro,Hombre,Santa Fe,34.0,2.0,1,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro,Hombre,Puente Aranda,19.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Sur occidental,Hombre,Bosa,23.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Occidental,Hombre,Kennedy,63.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Usaquén,43.0,5.0,0,Seguro,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Sur occidental,Hombre,Ciudad Bolívar,32.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Caminar
+Norte,Hombre,Suba,40.0,5.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Centro,Hombre,Puente Aranda,63.0,3.0,0,Neutro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Hombre,Fontibón,60.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro oriental,Hombre,Chapinero,47.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Seguro,0,Caminar
+Norte,Hombre,Suba,27.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro,Hombre,Santa Fe,32.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Sur occidental,Hombre,Bosa,48.0,1.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,30.0,2.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Hombre,Antonio Nariño,29.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Moto particular
+Occidental,Hombre,Kennedy,37.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,36.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Caminar
+Sur oriental,Hombre,San Cristóbal,31.0,2.0,0,Seguro,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Fontibón,42.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Occidental,Hombre,Kennedy,65.0,2.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Hombre,Fontibón,47.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Caminar
+Centro,Hombre,Candelaria,25.0,2.0,0,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Centro,Hombre,Puente Aranda,60.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,36.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Kennedy,23.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Puente Aranda,50.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Carro
+Occidental,Hombre,Engativá,77.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Centro,Hombre,Candelaria,33.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Sur oriental,Hombre,San Cristóbal,39.0,2.0,0,Seguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro,Hombre,Los Mártires,29.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Fontibón,39.0,4.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Kennedy,37.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur occidental,Hombre,Tunjuelito,63.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Carro
+Sur oriental,Hombre,Rafael Uribe Uribe,37.0,2.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro oriental,Hombre,Barrios Unidos,62.0,3.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Ciudad Bolívar,64.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,20.0,1.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Sur occidental,Hombre,Bosa,57.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Norte,Hombre,Usaquén,53.0,2.0,0,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Hombre,Suba,30.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Norte,Hombre,Usaquén,49.0,5.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Plataformas digitales
+Centro,Hombre,Puente Aranda,62.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur oriental,Hombre,Antonio Nariño,40.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Norte,Hombre,Usaquén,54.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Transmilenio
+Occidental,Hombre,Engativá,32.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Occidental,Hombre,Fontibón,63.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Norte,Hombre,Usaquén,50.0,4.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Centro,Hombre,Puente Aranda,42.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Caminar
+Sur occidental,Hombre,Ciudad Bolívar,28.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur oriental,Hombre,Rafael Uribe Uribe,63.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,44.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro,Hombre,Candelaria,20.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,1,SITP
+Sur occidental,Hombre,Bosa,48.0,2.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Kennedy,19.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,1,Transmilenio
+Centro,Hombre,Los Mártires,66.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,20.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Seguro,0,Taxi
+Centro,Hombre,Puente Aranda,48.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro,Hombre,Santa Fe,69.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Hombre,Antonio Nariño,59.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Hombre,Usaquén,21.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro oriental,Hombre,Teusaquillo,55.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Caminar
+Centro oriental,Hombre,Teusaquillo,30.0,3.0,0,Seguro,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Santa Fe,18.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Sur occidental,Hombre,Ciudad Bolívar,20.0,2.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Centro oriental,Hombre,Chapinero,34.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Sur oriental,Hombre,San Cristóbal,50.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,SITP
+Centro,Hombre,Los Mártires,30.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Occidental,Hombre,Fontibón,31.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro oriental,Hombre,Teusaquillo,68.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Santa Fe,22.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Barrios Unidos,46.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Chapinero,21.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur oriental,Hombre,Rafael Uribe Uribe,65.0,3.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro,Hombre,Puente Aranda,56.0,3.0,0,Neutro,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Centro,Hombre,Puente Aranda,72.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Norte,Hombre,Suba,42.0,3.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur occidental,Hombre,Bosa,30.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Seguro,0,Moto particular
+Sur occidental,Hombre,Ciudad Bolívar,60.0,1.0,0,Neutro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Taxi
+Occidental,Hombre,Kennedy,33.0,3.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Hombre,Los Mártires,59.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Taxi
+Norte,Hombre,Usaquén,36.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Centro,Hombre,Los Mártires,60.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Hombre,Usaquén,27.0,5.0,1,Seguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro,Hombre,Santa Fe,29.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Norte,Hombre,Usaquén,34.0,5.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro,Hombre,Santa Fe,53.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Suba,41.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,62.0,4.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Sur occidental,Hombre,Tunjuelito,21.0,2.0,1,Neutro,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,40.0,2.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro oriental,Hombre,Barrios Unidos,24.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Inseguro,1,Caminar
+Occidental,Hombre,Kennedy,31.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,43.0,4.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Hombre,Bosa,35.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Hombre,Bosa,53.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Centro oriental,Hombre,Teusaquillo,33.0,4.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Engativá,38.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro oriental,Hombre,Teusaquillo,74.0,4.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur occidental,Hombre,Bosa,35.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur oriental,Hombre,Usme,25.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Norte,Hombre,Suba,76.0,3.0,1,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Suba,48.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur oriental,Hombre,Antonio Nariño,42.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Candelaria,52.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Hombre,Tunjuelito,38.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Occidental,Hombre,Engativá,26.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Kennedy,33.0,2.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Occidental,Hombre,Engativá,41.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,75.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,69.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Santa Fe,22.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Sur occidental,Hombre,Ciudad Bolívar,24.0,1.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Neutro,0,Moto particular
+Centro oriental,Hombre,Teusaquillo,59.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Usaquén,28.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Occidental,Hombre,Engativá,36.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Moto particular
+Sur occidental,Hombre,Bosa,33.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Norte,Hombre,Usaquén,37.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Centro oriental,Hombre,Chapinero,54.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Sur oriental,Hombre,Rafael Uribe Uribe,28.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Moto particular
+Sur occidental,Hombre,Ciudad Bolívar,29.0,3.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Neutro,0,Bicicleta
+Centro,Hombre,Puente Aranda,34.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Centro oriental,Hombre,Teusaquillo,18.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Kennedy,57.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,55.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Hombre,Los Mártires,40.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Norte,Hombre,Suba,28.0,5.0,0,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Centro oriental,Hombre,Chapinero,59.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,40.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Carro
+Centro,Hombre,Santa Fe,33.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Centro oriental,Hombre,Barrios Unidos,47.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro,Hombre,Puente Aranda,25.0,3.0,1,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Sur oriental,Hombre,San Cristóbal,90.0,2.0,0,Seguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,Usme,19.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro,Hombre,Santa Fe,32.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro,Hombre,Santa Fe,67.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Centro,Hombre,Los Mártires,25.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Kennedy,91.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Hombre,Puente Aranda,33.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur oriental,Hombre,Usme,70.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro,Hombre,Los Mártires,50.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Usaquén,45.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,54.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Hombre,Puente Aranda,63.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Occidental,Hombre,Fontibón,23.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Occidental,Hombre,Fontibón,29.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur occidental,Hombre,Bosa,30.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,SITP
+Centro,Hombre,Puente Aranda,40.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Bicicleta
+Norte,Hombre,Suba,69.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Santa Fe,26.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,46.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Sur occidental,Hombre,Tunjuelito,32.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Norte,Hombre,Suba,34.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Moto particular
+Sur occidental,Hombre,Bosa,35.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Fontibón,18.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Norte,Hombre,Suba,19.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Centro,Hombre,Puente Aranda,27.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro,Hombre,Santa Fe,42.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Hombre,Engativá,75.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,28.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Bicicleta
+Sur oriental,Hombre,San Cristóbal,75.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Kennedy,53.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Norte,Hombre,Suba,68.0,2.0,1,Inseguro,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Occidental,Hombre,Engativá,18.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Norte,Hombre,Usaquén,19.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro,Hombre,Santa Fe,42.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro oriental,Hombre,Barrios Unidos,55.0,3.0,0,Inseguro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,37.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur occidental,Hombre,Ciudad Bolívar,25.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,58.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Sur occidental,Hombre,Ciudad Bolívar,41.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Hombre,Kennedy,47.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Moto particular
+Occidental,Hombre,Kennedy,71.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Fontibón,50.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur occidental,Hombre,Bosa,23.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur occidental,Hombre,Tunjuelito,58.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Hombre,Puente Aranda,38.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Hombre,Usaquén,27.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Hombre,Usaquén,40.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Usaquén,47.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Occidental,Hombre,Kennedy,25.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Suba,57.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur occidental,Hombre,Ciudad Bolívar,82.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Transmilenio
+Centro oriental,Hombre,Teusaquillo,49.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Sur occidental,Hombre,Ciudad Bolívar,48.0,2.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro oriental,Hombre,Chapinero,44.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro,Hombre,Puente Aranda,32.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur oriental,Hombre,Usme,82.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,29.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Centro oriental,Hombre,Barrios Unidos,60.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,32.0,3.0,0,Inseguro,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Centro oriental,Hombre,Chapinero,36.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Centro oriental,Hombre,Chapinero,33.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Sur oriental,Hombre,Antonio Nariño,38.0,2.0,1,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Los Mártires,70.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Sur occidental,Hombre,Ciudad Bolívar,78.0,1.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,45.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur oriental,Hombre,Rafael Uribe Uribe,39.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bus empresa/entidad educativa
+Sur oriental,Hombre,San Cristóbal,74.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Bosa,41.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Occidental,Hombre,Fontibón,61.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Norte,Hombre,Usaquén,39.0,4.0,0,Seguro,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Neutro,0,Carro
+Norte,Hombre,Suba,18.0,3.0,0,Inseguro,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Bicicleta
+Centro oriental,Hombre,Teusaquillo,65.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Sur oriental,Hombre,Antonio Nariño,49.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,43.0,3.0,0,Seguro,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Neutro,1,Carro
+Occidental,Hombre,Fontibón,18.0,3.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Suba,40.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur oriental,Hombre,Rafael Uribe Uribe,28.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Los Mártires,20.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Caminar
+Occidental,Hombre,Kennedy,23.0,3.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro oriental,Hombre,Barrios Unidos,70.0,3.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Carro
+Sur oriental,Hombre,Rafael Uribe Uribe,76.0,3.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Sur occidental,Hombre,Tunjuelito,54.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Sur occidental,Hombre,Bosa,18.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Norte,Hombre,Suba,45.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Occidental,Hombre,Kennedy,77.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,57.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Moto particular
+Centro,Hombre,Santa Fe,36.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Norte,Hombre,Suba,64.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Centro oriental,Hombre,Chapinero,30.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,57.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Hombre,Bosa,24.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Engativá,25.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Centro oriental,Hombre,Teusaquillo,25.0,4.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Neutro,1,Transmilenio
+Norte,Hombre,Usaquén,25.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Occidental,Hombre,Kennedy,18.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro oriental,Hombre,Chapinero,23.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Sur oriental,Hombre,San Cristóbal,73.0,2.0,1,Neutro,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Hombre,Engativá,45.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,52.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,1,Moto particular
+Sur occidental,Hombre,Tunjuelito,59.0,2.0,0,Inseguro,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,Inseguro,1,Bicicleta
+Sur oriental,Hombre,Antonio Nariño,62.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Santa Fe,33.0,2.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Teusaquillo,54.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Bicicleta
+Sur occidental,Hombre,Tunjuelito,29.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Caminar
+Sur oriental,Hombre,Rafael Uribe Uribe,23.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Kennedy,68.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Hombre,Usme,40.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Hombre,Suba,50.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Hombre,Suba,48.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,40.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,1,Moto particular
+Occidental,Hombre,Kennedy,30.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,73.0,4.0,1,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Sur oriental,Hombre,Usme,45.0,1.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Usme,25.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Occidental,Hombre,Engativá,81.0,3.0,1,Seguro,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Hombre,Usme,34.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro,Hombre,Candelaria,20.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur occidental,Hombre,Tunjuelito,56.0,3.0,0,Seguro,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Tunjuelito,37.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro oriental,Hombre,Chapinero,26.0,3.0,0,Inseguro,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro oriental,Hombre,Teusaquillo,70.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Usaquén,40.0,4.0,0,Neutro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Hombre,Suba,67.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Caminar
+Sur oriental,Hombre,Rafael Uribe Uribe,58.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Centro oriental,Hombre,Chapinero,37.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Chapinero,33.0,6.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Sur oriental,Hombre,Usme,42.0,1.0,0,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Centro oriental,Hombre,Barrios Unidos,75.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Occidental,Hombre,Kennedy,45.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Sur oriental,Hombre,Rafael Uribe Uribe,63.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Hombre,Puente Aranda,70.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro oriental,Hombre,Barrios Unidos,34.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Occidental,Hombre,Engativá,77.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Occidental,Hombre,Engativá,59.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Carro
+Sur oriental,Hombre,San Cristóbal,70.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Hombre,Kennedy,48.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro oriental,Hombre,Teusaquillo,32.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Centro oriental,Hombre,Teusaquillo,55.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Inseguro,1,Plataformas digitales
+Sur oriental,Hombre,Usme,20.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro,Hombre,Los Mártires,25.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Plataformas digitales
+Occidental,Hombre,Engativá,23.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Occidental,Hombre,Kennedy,52.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,24.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Occidental,Hombre,Kennedy,29.0,2.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Sur oriental,Hombre,Antonio Nariño,52.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro,Hombre,Los Mártires,31.0,3.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Centro oriental,Hombre,Barrios Unidos,69.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,38.0,5.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Caminar
+Norte,Hombre,Usaquén,30.0,5.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Occidental,Hombre,Engativá,29.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro oriental,Hombre,Teusaquillo,29.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Sur occidental,Hombre,Ciudad Bolívar,34.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Occidental,Hombre,Engativá,58.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro,Hombre,Puente Aranda,71.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro,Hombre,Puente Aranda,45.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro,Hombre,Los Mártires,22.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Hombre,Engativá,39.0,3.0,0,Neutro,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Occidental,Hombre,Engativá,73.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur occidental,Hombre,Bosa,30.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur occidental,Hombre,Bosa,70.0,2.0,0,Inseguro,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Centro oriental,Hombre,Teusaquillo,48.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Occidental,Hombre,Fontibón,79.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Occidental,Hombre,Engativá,19.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Sur oriental,Hombre,San Cristóbal,39.0,2.0,0,Seguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Occidental,Hombre,Fontibón,72.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Norte,Hombre,Suba,46.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Inseguro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Occidental,Hombre,Fontibón,27.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Norte,Hombre,Suba,34.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro,Hombre,Candelaria,55.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Sur occidental,Hombre,Ciudad Bolívar,26.0,1.0,1,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro oriental,Hombre,Chapinero,20.0,4.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Candelaria,33.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur oriental,Hombre,Usme,38.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,20.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Sur oriental,Hombre,Rafael Uribe Uribe,20.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur occidental,Hombre,Bosa,48.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro oriental,Hombre,Chapinero,24.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Taxi
+Norte,Hombre,Suba,18.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Hombre,Usaquén,57.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro,Hombre,Los Mártires,65.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Sur oriental,Hombre,Usme,29.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Centro oriental,Hombre,Chapinero,27.0,6.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,1,Carro
+Sur oriental,Hombre,Usme,35.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,31.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transporte informal/Pirata
+Occidental,Hombre,Fontibón,20.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Occidental,Hombre,Kennedy,18.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,35.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Hombre,Suba,60.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,20.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Ciudad Bolívar,29.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Centro,Hombre,Puente Aranda,19.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Sur oriental,Hombre,Usme,55.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Hombre,Kennedy,45.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Norte,Hombre,Suba,52.0,5.0,0,Seguro,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur occidental,Hombre,Bosa,59.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Norte,Hombre,Usaquén,27.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Hombre,San Cristóbal,52.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Centro oriental,Hombre,Teusaquillo,18.0,4.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,53.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Tunjuelito,64.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Chapinero,20.0,5.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,28.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur oriental,Hombre,Usme,47.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,34.0,4.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Suba,24.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Plataformas digitales
+Norte,Hombre,Suba,53.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro,Hombre,Puente Aranda,28.0,3.0,0,Inseguro,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro,Hombre,Puente Aranda,46.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Tunjuelito,47.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,SITP
+Sur occidental,Hombre,Ciudad Bolívar,60.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,18.0,1.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Norte,Hombre,Suba,23.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,1,Transmilenio
+Sur occidental,Hombre,Tunjuelito,50.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Occidental,Hombre,Kennedy,45.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Sur oriental,Hombre,San Cristóbal,60.0,2.0,1,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Norte,Hombre,Suba,38.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Norte,Hombre,Usaquén,20.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Norte,Hombre,Usaquén,35.0,4.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Norte,Hombre,Suba,38.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Sur oriental,Hombre,San Cristóbal,50.0,2.0,0,Seguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Engativá,67.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,62.0,3.0,1,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Neutro,1,Bicicleta
+Sur occidental,Hombre,Ciudad Bolívar,42.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Caminar
+Norte,Hombre,Suba,46.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Taxi
+Centro oriental,Hombre,Teusaquillo,25.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Centro oriental,Hombre,Chapinero,38.0,1.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Engativá,35.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur occidental,Hombre,Ciudad Bolívar,51.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Sur oriental,Hombre,Usme,53.0,2.0,0,Inseguro,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Hombre,Rafael Uribe Uribe,35.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Norte,Hombre,Usaquén,29.0,3.0,0,Seguro,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Moto particular
+Norte,Hombre,Usaquén,50.0,6.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,66.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Sur oriental,Hombre,San Cristóbal,69.0,2.0,0,Seguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Taxi
+Centro,Hombre,Puente Aranda,36.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Centro,Hombre,Santa Fe,22.0,3.0,0,Neutro,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Hombre,Los Mártires,37.0,3.0,0,Inseguro,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Bosa,44.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Centro,Hombre,Puente Aranda,60.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro,Hombre,Puente Aranda,29.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur occidental,Hombre,Bosa,30.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Norte,Hombre,Suba,50.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Hombre,Suba,28.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Sur occidental,Hombre,Bosa,29.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Sur occidental,Hombre,Bosa,28.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Caminar
+Norte,Hombre,Usaquén,20.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Centro oriental,Hombre,Chapinero,24.0,4.0,1,Seguro,0.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,1.0,1.0,Inseguro,1,Caminar
+Occidental,Hombre,Kennedy,24.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Occidental,Hombre,Kennedy,40.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Centro oriental,Hombre,Barrios Unidos,63.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Hombre,Santa Fe,33.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Norte,Hombre,Usaquén,65.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Teusaquillo,31.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur oriental,Hombre,Rafael Uribe Uribe,36.0,3.0,0,Inseguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Sur occidental,Hombre,Ciudad Bolívar,41.0,2.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Bus empresa/entidad educativa
+Centro oriental,Hombre,Chapinero,44.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Hombre,Suba,49.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Carro
+Centro,Hombre,Los Mártires,61.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Bosa,44.0,1.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro oriental,Hombre,Barrios Unidos,32.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Sur oriental,Hombre,Antonio Nariño,23.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Bicicleta
+Centro oriental,Hombre,Teusaquillo,39.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro oriental,Hombre,Chapinero,40.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro oriental,Hombre,Chapinero,34.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Carro
+Sur oriental,Hombre,Usme,18.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Usme,72.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Hombre,Santa Fe,25.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Hombre,Usaquén,53.0,5.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Sur occidental,Hombre,Tunjuelito,53.0,2.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro,Hombre,Santa Fe,23.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Centro oriental,Hombre,Chapinero,28.0,6.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Sur oriental,Hombre,Usme,21.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Hombre,Kennedy,55.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Hombre,Usaquén,28.0,4.0,0,Inseguro,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Occidental,Hombre,Kennedy,19.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,21.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur oriental,Hombre,Antonio Nariño,70.0,3.0,0,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Norte,Hombre,Usaquén,42.0,4.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Hombre,Engativá,25.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Engativá,67.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,74.0,1.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,58.0,3.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Hombre,San Cristóbal,27.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Norte,Hombre,Usaquén,48.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Centro oriental,Hombre,Chapinero,38.0,6.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Ciudad Bolívar,35.0,1.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,SITP
+Occidental,Hombre,Engativá,69.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Usaquén,61.0,4.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Norte,Hombre,Usaquén,29.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Norte,Hombre,Suba,28.0,3.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Hombre,Kennedy,28.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Chapinero,29.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Occidental,Hombre,Fontibón,28.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Norte,Hombre,Suba,74.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur occidental,Hombre,Bosa,72.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,25.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Sur oriental,Hombre,San Cristóbal,55.0,2.0,0,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,48.0,5.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Occidental,Hombre,Kennedy,52.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Suba,22.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Sur oriental,Hombre,Usme,35.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur occidental,Hombre,Bosa,65.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro,Hombre,Candelaria,24.0,1.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,Neutro,0,Caminar
+Sur occidental,Hombre,Tunjuelito,19.0,2.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Hombre,Los Mártires,74.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Hombre,Suba,36.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Norte,Hombre,Usaquén,37.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Patineta eléctrica
+Sur occidental,Hombre,Tunjuelito,77.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,22.0,2.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,Inseguro,1,Bicicleta
+Centro,Hombre,Puente Aranda,24.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Norte,Hombre,Usaquén,41.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Occidental,Hombre,Fontibón,58.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,Usme,20.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,78.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Puente Aranda,65.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Hombre,Suba,58.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Bicicleta
+Sur oriental,Hombre,Usme,38.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,36.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Norte,Hombre,Suba,55.0,4.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Hombre,Usaquén,28.0,4.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Norte,Hombre,Suba,40.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Occidental,Hombre,Engativá,21.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Norte,Hombre,Suba,64.0,3.0,1,Inseguro,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Occidental,Hombre,Engativá,62.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Taxi
+Centro oriental,Hombre,Chapinero,21.0,4.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Hombre,Tunjuelito,57.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Norte,Hombre,Suba,53.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Santa Fe,57.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro,Hombre,Santa Fe,18.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transporte informal/Pirata
+Sur oriental,Hombre,San Cristóbal,28.0,2.0,0,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Engativá,35.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Usaquén,35.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Plataformas digitales
+Sur oriental,Hombre,San Cristóbal,34.0,3.0,0,Seguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Suba,36.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Hombre,Tunjuelito,83.0,2.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,35.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Taxi
+Centro,Hombre,Puente Aranda,53.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Sur occidental,Hombre,Tunjuelito,25.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro oriental,Hombre,Teusaquillo,44.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,20.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,68.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Sur oriental,Hombre,San Cristóbal,48.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Norte,Hombre,Usaquén,65.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Plataformas digitales
+Norte,Hombre,Suba,65.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Sur occidental,Hombre,Bosa,22.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Centro oriental,Hombre,Teusaquillo,32.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Hombre,Tunjuelito,54.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Occidental,Hombre,Kennedy,50.0,2.0,0,Inseguro,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,Bicicleta
+Sur oriental,Hombre,Usme,21.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,66.0,1.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Centro,Hombre,Los Mártires,63.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Hombre,Fontibón,18.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Neutro,0,Bicicleta
+Sur occidental,Hombre,Ciudad Bolívar,62.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro,Hombre,Puente Aranda,30.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro oriental,Hombre,Teusaquillo,46.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,1,Carro
+Occidental,Hombre,Fontibón,80.0,3.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur oriental,Hombre,Usme,20.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Centro oriental,Hombre,Chapinero,34.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Occidental,Hombre,Kennedy,60.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur oriental,Hombre,Rafael Uribe Uribe,34.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Fontibón,30.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Occidental,Hombre,Kennedy,60.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro,Hombre,Candelaria,37.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Taxi
+Norte,Hombre,Suba,38.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Sur oriental,Hombre,Rafael Uribe Uribe,20.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Suba,38.0,2.0,1,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Hombre,Engativá,27.0,2.0,0,Inseguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Usaquén,30.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Teusaquillo,66.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro oriental,Hombre,Teusaquillo,80.0,3.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Bosa,60.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Sur occidental,Hombre,Ciudad Bolívar,33.0,1.0,0,Seguro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,Usme,33.0,2.0,1,Inseguro,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur oriental,Hombre,Antonio Nariño,65.0,3.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur oriental,Hombre,Rafael Uribe Uribe,32.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur occidental,Hombre,Tunjuelito,67.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro,Hombre,Los Mártires,22.0,3.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Chapinero,18.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Hombre,Bosa,42.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Hombre,Suba,49.0,2.0,1,Inseguro,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Chapinero,40.0,6.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Suba,55.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Hombre,Usme,19.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Antonio Nariño,32.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur oriental,Hombre,Antonio Nariño,20.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Santa Fe,41.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Suba,45.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Norte,Hombre,Suba,25.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro,Hombre,Santa Fe,35.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Carro
+Centro,Hombre,Los Mártires,31.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Kennedy,89.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Norte,Hombre,Usaquén,82.0,4.0,0,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro,Hombre,Puente Aranda,28.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Santa Fe,49.0,2.0,1,Inseguro,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Norte,Hombre,Suba,65.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Occidental,Hombre,Fontibón,23.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Centro,Hombre,Puente Aranda,42.0,3.0,1,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Norte,Hombre,Usaquén,96.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Usme,26.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Chapinero,24.0,6.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Occidental,Hombre,Fontibón,29.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Bicicleta
+Sur occidental,Hombre,Tunjuelito,42.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Centro oriental,Hombre,Teusaquillo,61.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Suba,74.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro,Hombre,Santa Fe,78.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Occidental,Hombre,Engativá,52.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Los Mártires,19.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Hombre,Suba,39.0,5.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Suba,18.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro oriental,Hombre,Barrios Unidos,48.0,4.0,0,Seguro,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Occidental,Hombre,Kennedy,34.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Norte,Hombre,Usaquén,30.0,6.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,50.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Taxi
+Sur oriental,Hombre,San Cristóbal,86.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur occidental,Hombre,Bosa,56.0,2.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Inseguro,1,Bicicleta
+Occidental,Hombre,Engativá,44.0,4.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro,Hombre,Candelaria,38.0,2.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Caminar
+Norte,Hombre,Suba,40.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Sur oriental,Hombre,San Cristóbal,46.0,2.0,1,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Norte,Hombre,Usaquén,38.0,5.0,0,Seguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Sur occidental,Hombre,Ciudad Bolívar,34.0,1.0,1,Inseguro,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,SITP
+Sur occidental,Hombre,Ciudad Bolívar,27.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Norte,Hombre,Usaquén,59.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Norte,Hombre,Usaquén,42.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Caminar
+Norte,Hombre,Usaquén,27.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Occidental,Hombre,Kennedy,70.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Kennedy,48.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Hombre,Puente Aranda,29.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Chapinero,43.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Caminar
+Norte,Hombre,Suba,64.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Hombre,Usaquén,19.0,3.0,0,Inseguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,29.0,1.0,1,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,69.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Sur occidental,Hombre,Tunjuelito,20.0,2.0,1,Inseguro,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Hombre,Suba,18.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Occidental,Hombre,Fontibón,19.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur oriental,Hombre,Usme,24.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Tunjuelito,42.0,2.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Carro
+Centro oriental,Hombre,Barrios Unidos,70.0,4.0,0,Neutro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Usme,32.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Hombre,Los Mártires,54.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Hombre,Antonio Nariño,55.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Tunjuelito,70.0,2.0,0,Inseguro,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Plataformas digitales
+Occidental,Hombre,Kennedy,43.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Centro,Hombre,Santa Fe,44.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Taxi
+Sur occidental,Hombre,Bosa,63.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Puente Aranda,48.0,3.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Suba,19.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Puente Aranda,42.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur occidental,Hombre,Ciudad Bolívar,38.0,1.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur oriental,Hombre,Usme,35.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Sur oriental,Hombre,San Cristóbal,22.0,3.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Hombre,Usaquén,30.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,Antonio Nariño,19.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Hombre,Candelaria,57.0,2.0,1,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Sur occidental,Hombre,Bosa,26.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Hombre,Suba,19.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,1,Bicicleta
+Norte,Hombre,Suba,28.0,4.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Sur oriental,Hombre,Usme,51.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,43.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Moto particular
+Norte,Hombre,Suba,40.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur oriental,Hombre,San Cristóbal,55.0,2.0,1,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Occidental,Hombre,Kennedy,59.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Hombre,Chapinero,53.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Hombre,Puente Aranda,42.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Centro oriental,Hombre,Teusaquillo,65.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Norte,Hombre,Suba,63.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Usaquén,27.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Hombre,Santa Fe,20.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Hombre,Usme,27.0,1.0,0,Seguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Occidental,Hombre,Engativá,60.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Sur occidental,Hombre,Ciudad Bolívar,50.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Hombre,Kennedy,35.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,79.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Hombre,Usaquén,46.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Occidental,Hombre,Engativá,25.0,2.0,0,Neutro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Carro
+Sur occidental,Hombre,Ciudad Bolívar,26.0,1.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Tunjuelito,69.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,79.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Santa Fe,56.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Norte,Hombre,Usaquén,18.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur oriental,Hombre,San Cristóbal,42.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,37.0,2.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,1,Moto particular
+Sur occidental,Hombre,Bosa,66.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Taxi
+Sur oriental,Hombre,Antonio Nariño,39.0,3.0,1,Neutro,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Bosa,28.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,26.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Bicicleta
+Sur occidental,Hombre,Bosa,73.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro oriental,Hombre,Chapinero,39.0,4.0,0,Neutro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,53.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro oriental,Hombre,Teusaquillo,72.0,5.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,71.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Caminar
+Sur oriental,Hombre,Rafael Uribe Uribe,57.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,SITP
+Norte,Hombre,Suba,20.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Teusaquillo,20.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Chapinero,27.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Inseguro,0,Taxi
+Centro,Hombre,Puente Aranda,32.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Bicicleta
+Norte,Hombre,Suba,31.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,38.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Kennedy,47.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Centro oriental,Hombre,Barrios Unidos,22.0,4.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,71.0,3.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Neutro,0,Bicicleta
+Occidental,Hombre,Fontibón,35.0,3.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Sur oriental,Hombre,Rafael Uribe Uribe,26.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro oriental,Hombre,Teusaquillo,55.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Bicicleta
+Centro,Hombre,Puente Aranda,30.0,3.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Sur occidental,Hombre,Tunjuelito,69.0,2.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Hombre,Tunjuelito,40.0,2.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Suba,37.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Bosa,42.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,30.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Kennedy,25.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Hombre,Bosa,32.0,2.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Sur oriental,Hombre,Usme,36.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Occidental,Hombre,Kennedy,47.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Sur oriental,Hombre,San Cristóbal,44.0,2.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Moto particular
+Norte,Hombre,Suba,28.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Engativá,59.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Norte,Hombre,Suba,49.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Norte,Hombre,Usaquén,47.0,6.0,0,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Norte,Hombre,Suba,42.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Bicicleta
+Occidental,Hombre,Engativá,36.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Hombre,San Cristóbal,37.0,2.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Occidental,Hombre,Engativá,61.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Tunjuelito,37.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Bicicleta
+Sur oriental,Hombre,Antonio Nariño,61.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Occidental,Hombre,Fontibón,44.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Norte,Hombre,Suba,27.0,3.0,0,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Hombre,Ciudad Bolívar,21.0,1.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro,Hombre,Puente Aranda,22.0,3.0,1,Neutro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro oriental,Hombre,Barrios Unidos,28.0,4.0,0,Seguro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro,Hombre,Puente Aranda,46.0,3.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Sur oriental,Hombre,Usme,21.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Hombre,Kennedy,31.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Kennedy,68.0,2.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,49.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Occidental,Hombre,Engativá,46.0,3.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Seguro,0,Moto particular
+Centro oriental,Hombre,Barrios Unidos,35.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Hombre,Rafael Uribe Uribe,30.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Norte,Hombre,Suba,50.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Hombre,Bosa,60.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,63.0,4.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro,Hombre,Puente Aranda,56.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Hombre,Suba,22.0,2.0,0,Neutro,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Teusaquillo,75.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Hombre,Suba,45.0,3.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Hombre,Engativá,49.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Norte,Hombre,Usaquén,22.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro,Hombre,Candelaria,35.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Norte,Hombre,Usaquén,19.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Hombre,Usaquén,35.0,5.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Norte,Hombre,Usaquén,21.0,4.0,0,Inseguro,1.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Engativá,26.0,2.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Occidental,Hombre,Engativá,40.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur oriental,Hombre,Usme,25.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur oriental,Hombre,Rafael Uribe Uribe,59.0,3.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Hombre,Fontibón,18.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,SITP
+Occidental,Hombre,Kennedy,27.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Hombre,Santa Fe,33.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Occidental,Hombre,Kennedy,23.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Hombre,Barrios Unidos,30.0,3.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Hombre,San Cristóbal,58.0,2.0,0,Seguro,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Occidental,Hombre,Engativá,50.0,3.0,0,Neutro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Carro
+Occidental,Hombre,Fontibón,65.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Hombre,Fontibón,43.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Sur occidental,Hombre,Bosa,24.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Centro,Hombre,Puente Aranda,60.0,3.0,1,Inseguro,1.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Centro oriental,Hombre,Barrios Unidos,27.0,3.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur occidental,Hombre,Bosa,67.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro oriental,Hombre,Teusaquillo,60.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Sur occidental,Hombre,Tunjuelito,47.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro,Hombre,Santa Fe,27.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro,Hombre,Los Mártires,51.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Centro,Hombre,Puente Aranda,28.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur oriental,Hombre,San Cristóbal,76.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur occidental,Hombre,Bosa,37.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro,Hombre,Los Mártires,57.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Norte,Hombre,Suba,24.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Hombre,Ciudad Bolívar,19.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Puente Aranda,59.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Sur occidental,Hombre,Bosa,46.0,1.0,1,Neutro,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Norte,Hombre,Usaquén,34.0,4.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro,Hombre,Puente Aranda,35.0,3.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur occidental,Hombre,Ciudad Bolívar,23.0,1.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Hombre,Kennedy,18.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Occidental,Hombre,Kennedy,40.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro,Hombre,Santa Fe,36.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Norte,Hombre,Usaquén,25.0,6.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Hombre,Fontibón,22.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro,Hombre,Los Mártires,45.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Sur occidental,Hombre,Tunjuelito,28.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro oriental,Hombre,Teusaquillo,76.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Hombre,Tunjuelito,68.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Hombre,Los Mártires,66.0,4.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Hombre,San Cristóbal,48.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Norte,Hombre,Suba,22.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Hombre,Candelaria,62.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Santa Fe,19.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro,Mujer,Santa Fe,46.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Mujer,Los Mártires,35.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Kennedy,52.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Occidental,Mujer,Fontibón,23.0,3.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Mujer,Bosa,64.0,2.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Sur oriental,Mujer,Rafael Uribe Uribe,66.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro oriental,Mujer,Chapinero,39.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Sur occidental,Mujer,Bosa,65.0,2.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,35.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Sur oriental,Mujer,San Cristóbal,42.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro,Mujer,Santa Fe,36.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Norte,Mujer,Suba,42.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Mujer,Los Mártires,20.0,3.0,1,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Taxi
+Sur occidental,Mujer,Tunjuelito,35.0,2.0,1,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,SITP
+Occidental,Mujer,Fontibón,38.0,2.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Mujer,Puente Aranda,72.0,3.0,1,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Mujer,Bosa,28.0,2.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,45.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Occidental,Mujer,Kennedy,29.0,2.0,0,Seguro,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Mujer,Engativá,54.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Mujer,Santa Fe,41.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Mujer,Candelaria,23.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Mujer,Fontibón,25.0,3.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur oriental,Mujer,San Cristóbal,74.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,50.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Occidental,Mujer,Engativá,44.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,SITP
+Sur oriental,Mujer,Usme,62.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,60.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Caminar
+Norte,Mujer,Usaquén,21.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro,Mujer,Los Mártires,19.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Mujer,Los Mártires,39.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Norte,Mujer,Suba,36.0,3.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Sur oriental,Mujer,Rafael Uribe Uribe,18.0,2.0,1,Inseguro,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Norte,Mujer,Suba,44.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro,Mujer,Santa Fe,53.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Occidental,Mujer,Fontibón,49.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,18.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Norte,Mujer,Suba,40.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Sur oriental,Mujer,Usme,26.0,1.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Engativá,50.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,34.0,3.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Neutro,1,Plataformas digitales
+Centro,Mujer,Puente Aranda,34.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Occidental,Mujer,Engativá,67.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,51.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro oriental,Mujer,Chapinero,23.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Usaquén,50.0,4.0,0,Seguro,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,60.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Centro oriental,Mujer,Barrios Unidos,56.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur oriental,Mujer,San Cristóbal,67.0,2.0,1,Neutro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Occidental,Mujer,Engativá,53.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Sur oriental,Mujer,Usme,31.0,1.0,0,Neutro,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,48.0,3.0,0,Seguro,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Sur occidental,Mujer,Tunjuelito,78.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Taxi
+Sur oriental,Mujer,San Cristóbal,38.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,27.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro oriental,Mujer,Teusaquillo,55.0,4.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Usaquén,33.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Occidental,Mujer,Fontibón,43.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur oriental,Mujer,Usme,32.0,2.0,1,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Bosa,39.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Inseguro,0,Bicicleta
+Occidental,Mujer,Kennedy,61.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Candelaria,29.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,30.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Mujer,Ciudad Bolívar,38.0,2.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Fontibón,27.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,36.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Norte,Mujer,Usaquén,24.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,Carro
+Sur occidental,Mujer,Bosa,78.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Norte,Mujer,Usaquén,57.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Sur occidental,Mujer,Bosa,49.0,1.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,38.0,2.0,0,Seguro,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Sur occidental,Mujer,Ciudad Bolívar,22.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Taxi
+Centro,Mujer,Los Mártires,64.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,SITP
+Centro oriental,Mujer,Chapinero,35.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Centro,Mujer,Puente Aranda,65.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,76.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro oriental,Mujer,Teusaquillo,29.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Centro oriental,Mujer,Teusaquillo,58.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Kennedy,46.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Usaquén,59.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Mujer,Usaquén,24.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Centro,Mujer,Puente Aranda,26.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Norte,Mujer,Suba,22.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur oriental,Mujer,Usme,35.0,2.0,1,Seguro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,79.0,4.0,0,Seguro,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Taxi
+Centro oriental,Mujer,Teusaquillo,36.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro,Mujer,Puente Aranda,70.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,27.0,6.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Plataformas digitales
+Centro oriental,Mujer,Barrios Unidos,61.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Suba,48.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,21.0,2.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,43.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur occidental,Mujer,Ciudad Bolívar,32.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur occidental,Mujer,Bosa,78.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,28.0,2.0,1,Neutro,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Norte,Mujer,Suba,18.0,2.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Sur occidental,Mujer,Ciudad Bolívar,29.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur oriental,Mujer,Usme,28.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Mujer,Fontibón,57.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Occidental,Mujer,Engativá,45.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,61.0,3.0,1,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,70.0,2.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Occidental,Mujer,Fontibón,34.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,59.0,3.0,0,Inseguro,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,1,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,50.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Centro oriental,Mujer,Barrios Unidos,66.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Mujer,Puente Aranda,42.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro,Mujer,Los Mártires,25.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro,Mujer,Los Mártires,24.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Neutro,0,Patineta eléctrica
+Centro oriental,Mujer,Chapinero,36.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,40.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,San Cristóbal,33.0,2.0,1,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Caminar
+Centro oriental,Mujer,Barrios Unidos,47.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro,Mujer,Puente Aranda,54.0,3.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Mujer,Santa Fe,65.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Sur oriental,Mujer,Usme,62.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,52.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro,Mujer,Puente Aranda,52.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Mujer,Suba,55.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Occidental,Mujer,Kennedy,38.0,2.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Centro,Mujer,Puente Aranda,27.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,56.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Moto particular
+Centro,Mujer,Puente Aranda,34.0,3.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Sur oriental,Mujer,San Cristóbal,59.0,2.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Norte,Mujer,Suba,32.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,60.0,3.0,1,Inseguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,62.0,3.0,0,Inseguro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,Caminar
+Centro,Mujer,Los Mártires,53.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Centro,Mujer,Puente Aranda,35.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Norte,Mujer,Suba,47.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,75.0,3.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,54.0,5.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Sur oriental,Mujer,San Cristóbal,60.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Centro oriental,Mujer,Teusaquillo,63.0,4.0,0,Seguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Taxi
+Norte,Mujer,Suba,27.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Norte,Mujer,Suba,34.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Sur occidental,Mujer,Ciudad Bolívar,50.0,1.0,0,Seguro,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,Neutro,1,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,77.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,21.0,2.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,62.0,3.0,1,Inseguro,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,35.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,51.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Kennedy,53.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Fontibón,20.0,3.0,0,Inseguro,0.0,0.0,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Sur occidental,Mujer,Bosa,20.0,2.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,38.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Mujer,Bosa,61.0,2.0,1,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Engativá,33.0,3.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Norte,Mujer,Suba,19.0,5.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Norte,Mujer,Usaquén,19.0,1.0,1,Seguro,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,21.0,3.0,1,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,40.0,6.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Centro,Mujer,Puente Aranda,41.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur occidental,Mujer,Tunjuelito,38.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Sur occidental,Mujer,Bosa,60.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,43.0,4.0,0,Seguro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Norte,Mujer,Suba,47.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Norte,Mujer,Usaquén,57.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,28.0,2.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Plataformas digitales
+Norte,Mujer,Suba,29.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Norte,Mujer,Suba,57.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Occidental,Mujer,Fontibón,52.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Sur occidental,Mujer,Tunjuelito,22.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,41.0,4.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Sur occidental,Mujer,Ciudad Bolívar,50.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Centro oriental,Mujer,Teusaquillo,64.0,5.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,69.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,58.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Centro,Mujer,Candelaria,41.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro oriental,Mujer,Teusaquillo,48.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,62.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro oriental,Mujer,Teusaquillo,57.0,4.0,0,Inseguro,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Mujer,Usaquén,25.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Sur occidental,Mujer,Ciudad Bolívar,24.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro oriental,Mujer,Teusaquillo,62.0,4.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Norte,Mujer,Suba,20.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur oriental,Mujer,San Cristóbal,57.0,2.0,1,Neutro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro oriental,Mujer,Chapinero,34.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Mujer,Usme,53.0,1.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,31.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Suba,77.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Norte,Mujer,Usaquén,31.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur occidental,Mujer,Ciudad Bolívar,49.0,1.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Norte,Mujer,Usaquén,30.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Sur oriental,Mujer,Rafael Uribe Uribe,27.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,42.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,25.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Occidental,Mujer,Engativá,60.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Centro oriental,Mujer,Chapinero,54.0,4.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,Usme,36.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Mujer,Chapinero,60.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Sur occidental,Mujer,Ciudad Bolívar,32.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,Neutro,1,SITP
+Centro oriental,Mujer,Teusaquillo,25.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Norte,Mujer,Suba,45.0,3.0,1,Seguro,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,20.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,46.0,2.0,1,Inseguro,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro,Mujer,Candelaria,60.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,25.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro oriental,Mujer,Chapinero,28.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,35.0,4.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Carro
+Sur occidental,Mujer,Bosa,55.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,81.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,Taxi
+Centro oriental,Mujer,Chapinero,50.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,62.0,2.0,1,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Sur occidental,Mujer,Bosa,48.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Occidental,Mujer,Engativá,25.0,3.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,45.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Bosa,75.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Usaquén,33.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,Caminar
+Centro oriental,Mujer,Barrios Unidos,49.0,3.0,1,Inseguro,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Moto particular
+Centro oriental,Mujer,Chapinero,29.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,23.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Santa Fe,40.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Occidental,Mujer,Engativá,51.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Sur oriental,Mujer,Usme,49.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,33.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Mujer,Santa Fe,20.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Centro,Mujer,Puente Aranda,30.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Centro oriental,Mujer,Chapinero,20.0,5.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur oriental,Mujer,Rafael Uribe Uribe,60.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,65.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Sur oriental,Mujer,Usme,57.0,1.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Fontibón,57.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,1,SITP
+Centro,Mujer,Candelaria,38.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Caminar
+Sur occidental,Mujer,Tunjuelito,22.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Fontibón,26.0,2.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,30.0,1.0,0,Seguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Sur occidental,Mujer,Bosa,65.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,42.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Occidental,Mujer,Engativá,22.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Occidental,Mujer,Fontibón,56.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Plataformas digitales
+Centro,Mujer,Puente Aranda,23.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Mujer,Candelaria,28.0,2.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Taxi
+Norte,Mujer,Suba,20.0,6.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Mujer,Bosa,59.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Usme,37.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Mujer,Puente Aranda,68.0,3.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,18.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Norte,Mujer,Suba,60.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Norte,Mujer,Suba,28.0,2.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Mujer,Santa Fe,46.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Kennedy,50.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,27.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Antonio Nariño,47.0,3.0,1,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,54.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,36.0,2.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro,Mujer,Puente Aranda,36.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Centro,Mujer,Candelaria,23.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Centro oriental,Mujer,Chapinero,28.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Centro oriental,Mujer,Teusaquillo,30.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro,Mujer,Puente Aranda,20.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Norte,Mujer,Suba,28.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Sur oriental,Mujer,Usme,40.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Usme,25.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Mujer,Kennedy,58.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Sur occidental,Mujer,Ciudad Bolívar,31.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,66.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Centro,Mujer,Candelaria,36.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,58.0,2.0,1,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,20.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Santa Fe,77.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Occidental,Mujer,Engativá,21.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Mujer,Engativá,58.0,3.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,56.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,21.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Mujer,Usaquén,47.0,6.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Mujer,Usaquén,21.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,45.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,53.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Bosa,21.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro,Mujer,Puente Aranda,32.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Sur oriental,Mujer,Usme,43.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Norte,Mujer,Suba,39.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,1,Carro
+Occidental,Mujer,Engativá,58.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Los Mártires,40.0,3.0,0,Seguro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,35.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Plataformas digitales
+Centro oriental,Mujer,Barrios Unidos,54.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro oriental,Mujer,Teusaquillo,28.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Patineta eléctrica
+Centro,Mujer,Los Mártires,35.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro,Mujer,Santa Fe,21.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,46.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,44.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Bosa,24.0,2.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro,Mujer,Los Mártires,72.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Norte,Mujer,Suba,50.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Moto particular
+Sur occidental,Mujer,Bosa,31.0,2.0,1,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Norte,Mujer,Suba,58.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur occidental,Mujer,Bosa,25.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,52.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro oriental,Mujer,Chapinero,62.0,6.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,45.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Caminar
+Centro,Mujer,Puente Aranda,48.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Taxi
+Sur occidental,Mujer,Ciudad Bolívar,38.0,1.0,0,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur oriental,Mujer,San Cristóbal,32.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Fontibón,54.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bicicleta
+Sur oriental,Mujer,San Cristóbal,60.0,2.0,1,Neutro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Mujer,Los Mártires,29.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro,Mujer,Puente Aranda,35.0,3.0,1,Inseguro,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,40.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Usme,31.0,2.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,65.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Sur oriental,Mujer,Usme,62.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Sur oriental,Mujer,Usme,49.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,53.0,5.0,0,Seguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Occidental,Mujer,Fontibón,24.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Centro oriental,Mujer,Chapinero,23.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,36.0,5.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Usaquén,56.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Occidental,Mujer,Kennedy,50.0,3.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,64.0,3.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Usme,44.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,47.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,1,SITP
+Centro,Mujer,Santa Fe,36.0,4.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Centro oriental,Mujer,Teusaquillo,28.0,4.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Puente Aranda,52.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,65.0,2.0,1,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,46.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Antonio Nariño,65.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Sur occidental,Mujer,Ciudad Bolívar,38.0,2.0,1,Inseguro,1.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Mujer,Chapinero,45.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,22.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Patineta eléctrica
+Centro oriental,Mujer,Teusaquillo,80.0,5.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Sur occidental,Mujer,Ciudad Bolívar,50.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Occidental,Mujer,Kennedy,29.0,3.0,1,Neutro,0.0,0.0,1.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Occidental,Mujer,Kennedy,33.0,2.0,1,Seguro,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Occidental,Mujer,Engativá,23.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,46.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,35.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Carro
+Centro,Mujer,Santa Fe,70.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Sur occidental,Mujer,Ciudad Bolívar,81.0,2.0,0,Seguro,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Carro
+Sur occidental,Mujer,Bosa,34.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Usaquén,32.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Occidental,Mujer,Fontibón,31.0,2.0,0,Inseguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Sur oriental,Mujer,Rafael Uribe Uribe,46.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Antonio Nariño,58.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,56.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,70.0,1.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,32.0,5.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Plataformas digitales
+Occidental,Mujer,Engativá,79.0,3.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro oriental,Mujer,Barrios Unidos,63.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,54.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,32.0,4.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro,Mujer,Los Mártires,19.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro,Mujer,Candelaria,33.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,28.0,3.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,18.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro oriental,Mujer,Teusaquillo,20.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Plataformas digitales
+Sur oriental,Mujer,San Cristóbal,28.0,2.0,0,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Sur occidental,Mujer,Bosa,31.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,38.0,3.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Los Mártires,23.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,24.0,2.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Occidental,Mujer,Kennedy,25.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Usme,62.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,34.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,62.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Norte,Mujer,Usaquén,35.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Sur occidental,Mujer,Ciudad Bolívar,40.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Usaquén,52.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Norte,Mujer,Usaquén,60.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,33.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,42.0,2.0,1,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Norte,Mujer,Suba,38.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Usaquén,57.0,6.0,1,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Occidental,Mujer,Kennedy,28.0,3.0,1,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Sur occidental,Mujer,Bosa,34.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Sur occidental,Mujer,Bosa,53.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Occidental,Mujer,Fontibón,19.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Usme,38.0,2.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,52.0,3.0,0,Inseguro,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,33.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,54.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,55.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur oriental,Mujer,Rafael Uribe Uribe,32.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Occidental,Mujer,Engativá,30.0,2.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Norte,Mujer,Usaquén,46.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,76.0,4.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur oriental,Mujer,Usme,21.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro,Mujer,Los Mártires,58.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Fontibón,61.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,47.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,60.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,53.0,2.0,0,Neutro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Mujer,Puente Aranda,42.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Cable Aéreo
+Sur occidental,Mujer,Ciudad Bolívar,50.0,1.0,1,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,39.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Caminar
+Centro oriental,Mujer,Teusaquillo,42.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Tunjuelito,21.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,Plataformas digitales
+Norte,Mujer,Suba,46.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Occidental,Mujer,Engativá,31.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur oriental,Mujer,Antonio Nariño,26.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Suba,29.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Sur oriental,Mujer,Rafael Uribe Uribe,76.0,1.0,1,Inseguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur oriental,Mujer,Usme,21.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Usaquén,26.0,4.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur oriental,Mujer,Usme,42.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro oriental,Mujer,Teusaquillo,72.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,0,Taxi
+Occidental,Mujer,Fontibón,40.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Occidental,Mujer,Engativá,39.0,3.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Mujer,Ciudad Bolívar,30.0,1.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro oriental,Mujer,Chapinero,19.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Plataformas digitales
+Occidental,Mujer,Engativá,55.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Usaquén,21.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,30.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro,Mujer,Puente Aranda,61.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Mujer,Bosa,62.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,SITP
+Norte,Mujer,Suba,30.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,54.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,48.0,3.0,1,Seguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Centro oriental,Mujer,Teusaquillo,48.0,4.0,0,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur oriental,Mujer,Antonio Nariño,50.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,60.0,5.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Santa Fe,28.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Mujer,Santa Fe,28.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur occidental,Mujer,Ciudad Bolívar,18.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,46.0,3.0,0,Inseguro,0.0,0.0,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Centro,Mujer,Santa Fe,60.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Sur oriental,Mujer,Rafael Uribe Uribe,35.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur occidental,Mujer,Tunjuelito,24.0,3.0,1,Seguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,41.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro,Mujer,Candelaria,70.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Norte,Mujer,Usaquén,30.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Norte,Mujer,Usaquén,55.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Kennedy,55.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro,Mujer,Los Mártires,58.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Taxi
+Centro,Mujer,Puente Aranda,25.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro oriental,Mujer,Chapinero,20.0,4.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,31.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Occidental,Mujer,Kennedy,25.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro oriental,Mujer,Chapinero,66.0,5.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,31.0,2.0,0,Neutro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Centro oriental,Mujer,Barrios Unidos,44.0,4.0,0,Inseguro,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,1,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,35.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Sur oriental,Mujer,San Cristóbal,66.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,34.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Centro oriental,Mujer,Chapinero,34.0,5.0,1,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Norte,Mujer,Usaquén,39.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,58.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Plataformas digitales
+Norte,Mujer,Usaquén,41.0,1.0,0,Seguro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Norte,Mujer,Suba,22.0,2.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Usaquén,24.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Centro oriental,Mujer,Teusaquillo,45.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Fontibón,31.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Sur oriental,Mujer,San Cristóbal,70.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Engativá,73.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Occidental,Mujer,Kennedy,51.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,70.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Sur oriental,Mujer,Rafael Uribe Uribe,21.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Occidental,Mujer,Engativá,40.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Bicicleta
+Norte,Mujer,Suba,44.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Mujer,Puente Aranda,38.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Centro,Mujer,Santa Fe,78.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Centro oriental,Mujer,Teusaquillo,57.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Plataformas digitales
+Centro,Mujer,Puente Aranda,42.0,3.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,San Cristóbal,77.0,3.0,0,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Tunjuelito,26.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur occidental,Mujer,Ciudad Bolívar,62.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,23.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Sur oriental,Mujer,San Cristóbal,45.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Sur oriental,Mujer,Antonio Nariño,51.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,42.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Neutro,1,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,68.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Mujer,Suba,33.0,3.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Mujer,Los Mártires,21.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Antonio Nariño,27.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro,Mujer,Los Mártires,25.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,74.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Norte,Mujer,Suba,24.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,Transporte informal/Pirata
+Sur occidental,Mujer,Ciudad Bolívar,46.0,1.0,1,Inseguro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Norte,Mujer,Usaquén,63.0,3.0,1,Neutro,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Occidental,Mujer,Engativá,54.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Mujer,Engativá,22.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro,Mujer,Puente Aranda,67.0,3.0,1,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Mujer,Puente Aranda,45.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Sur oriental,Mujer,Antonio Nariño,37.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Mujer,Ciudad Bolívar,37.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,25.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Usaquén,26.0,3.0,1,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Mujer,San Cristóbal,35.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur oriental,Mujer,Usme,39.0,1.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Norte,Mujer,Suba,49.0,5.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Centro,Mujer,Santa Fe,28.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro,Mujer,Puente Aranda,21.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro oriental,Mujer,Barrios Unidos,50.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Santa Fe,37.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Mujer,Suba,52.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Sur oriental,Mujer,Rafael Uribe Uribe,19.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Transmilenio
+Sur occidental,Mujer,Tunjuelito,44.0,2.0,1,Neutro,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,30.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,1,SITP
+Occidental,Mujer,Engativá,31.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,69.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Norte,Mujer,Suba,20.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro oriental,Mujer,Barrios Unidos,52.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Puente Aranda,39.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Norte,Mujer,Suba,73.0,2.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Taxi
+Occidental,Mujer,Engativá,42.0,3.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Mujer,Chapinero,28.0,5.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Plataformas digitales
+Norte,Mujer,Suba,37.0,3.0,0,Seguro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,34.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Santa Fe,62.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur occidental,Mujer,Tunjuelito,40.0,3.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Caminar
+Norte,Mujer,Usaquén,57.0,4.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,59.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Santa Fe,32.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,20.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro,Mujer,Puente Aranda,26.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Sur occidental,Mujer,Tunjuelito,54.0,3.0,1,Seguro,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,30.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Centro,Mujer,Puente Aranda,60.0,3.0,1,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur occidental,Mujer,Ciudad Bolívar,33.0,1.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Centro,Mujer,Santa Fe,32.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Plataformas digitales
+Sur occidental,Mujer,Tunjuelito,34.0,3.0,0,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Bicicleta
+Centro,Mujer,Santa Fe,70.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Taxi
+Sur oriental,Mujer,San Cristóbal,77.0,2.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,35.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,San Cristóbal,76.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,SITP
+Occidental,Mujer,Fontibón,32.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Sur occidental,Mujer,Tunjuelito,67.0,2.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Usaquén,35.0,2.0,1,Neutro,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Bosa,66.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro,Mujer,Puente Aranda,69.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Centro,Mujer,Puente Aranda,46.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,40.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,22.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur occidental,Mujer,Ciudad Bolívar,20.0,1.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Usme,51.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Mujer,Chapinero,34.0,6.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro oriental,Mujer,Teusaquillo,28.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Sur oriental,Mujer,Antonio Nariño,54.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,36.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,75.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Carro
+Norte,Mujer,Usaquén,57.0,3.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur occidental,Mujer,Tunjuelito,39.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Centro oriental,Mujer,Teusaquillo,48.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro,Mujer,Puente Aranda,23.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,72.0,5.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,35.0,1.0,0,Inseguro,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro oriental,Mujer,Teusaquillo,73.0,4.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Caminar
+Sur occidental,Mujer,Bosa,33.0,2.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,39.0,3.0,1,Inseguro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur oriental,Mujer,San Cristóbal,35.0,2.0,0,Seguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Puente Aranda,58.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Occidental,Mujer,Engativá,68.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Candelaria,35.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Antonio Nariño,74.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Caminar
+Sur occidental,Mujer,Ciudad Bolívar,45.0,2.0,0,Inseguro,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Usme,49.0,2.0,0,Neutro,0.0,1.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,43.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro oriental,Mujer,Barrios Unidos,59.0,4.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Caminar
+Norte,Mujer,Usaquén,57.0,6.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro oriental,Mujer,Barrios Unidos,22.0,3.0,0,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,Usme,60.0,1.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,62.0,4.0,1,Seguro,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Kennedy,52.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Moto particular
+Norte,Mujer,Usaquén,52.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Plataformas digitales
+Sur occidental,Mujer,Bosa,64.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Carro
+Sur oriental,Mujer,Rafael Uribe Uribe,40.0,2.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro oriental,Mujer,Chapinero,25.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Santa Fe,36.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bicicleta
+Centro oriental,Mujer,Barrios Unidos,69.0,3.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Norte,Mujer,Suba,35.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Taxi
+Occidental,Mujer,Kennedy,22.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro oriental,Mujer,Barrios Unidos,39.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur oriental,Mujer,San Cristóbal,58.0,2.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,18.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Centro,Mujer,Puente Aranda,35.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,19.0,1.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,SITP
+Sur occidental,Mujer,Ciudad Bolívar,31.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,54.0,4.0,1,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Centro oriental,Mujer,Barrios Unidos,70.0,4.0,0,Inseguro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,73.0,3.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,37.0,1.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro,Mujer,Los Mártires,28.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Plataformas digitales
+Centro oriental,Mujer,Barrios Unidos,65.0,4.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Norte,Mujer,Suba,50.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Centro,Mujer,Santa Fe,36.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,57.0,3.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,San Cristóbal,39.0,2.0,0,Inseguro,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Norte,Mujer,Suba,60.0,3.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Sur occidental,Mujer,Bosa,43.0,1.0,0,Neutro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Carro
+Sur occidental,Mujer,Ciudad Bolívar,36.0,1.0,1,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Centro,Mujer,Los Mártires,29.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Engativá,52.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,58.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Fontibón,60.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Occidental,Mujer,Fontibón,80.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Mujer,Puente Aranda,52.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Centro oriental,Mujer,Chapinero,41.0,4.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Bosa,54.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro,Mujer,Los Mártires,65.0,3.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Sur oriental,Mujer,Antonio Nariño,51.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Caminar
+Occidental,Mujer,Engativá,33.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Norte,Mujer,Suba,21.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Sur occidental,Mujer,Bosa,54.0,2.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Norte,Mujer,Suba,47.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,Usme,28.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,74.0,3.0,1,Neutro,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Centro oriental,Mujer,Barrios Unidos,55.0,4.0,0,Inseguro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,0,Carro
+Sur oriental,Mujer,Antonio Nariño,36.0,3.0,1,Inseguro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,21.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,24.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Occidental,Mujer,Kennedy,21.0,2.0,0,Inseguro,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,32.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,50.0,2.0,1,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Centro oriental,Mujer,Teusaquillo,50.0,4.0,0,Neutro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Bosa,25.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Bus empresa/entidad educativa
+Centro oriental,Mujer,Teusaquillo,60.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Sur oriental,Mujer,Usme,54.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Moto particular
+Sur occidental,Mujer,Bosa,25.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,26.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,52.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Seguro,1,Plataformas digitales
+Sur occidental,Mujer,Ciudad Bolívar,39.0,1.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Centro,Mujer,Santa Fe,24.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Sur oriental,Mujer,San Cristóbal,75.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,61.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur occidental,Mujer,Ciudad Bolívar,32.0,1.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Centro,Mujer,Candelaria,19.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Caminar
+Sur oriental,Mujer,Rafael Uribe Uribe,50.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Centro oriental,Mujer,Barrios Unidos,22.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,25.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur oriental,Mujer,Rafael Uribe Uribe,25.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Puente Aranda,49.0,3.0,1,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Norte,Mujer,Usaquén,26.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Suba,77.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,30.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,1,Bicicleta
+Centro,Mujer,Puente Aranda,44.0,3.0,0,Neutro,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Occidental,Mujer,Kennedy,26.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,63.0,4.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Carro
+Sur oriental,Mujer,Rafael Uribe Uribe,24.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro oriental,Mujer,Chapinero,29.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Norte,Mujer,Usaquén,40.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Sur occidental,Mujer,Tunjuelito,65.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,32.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,63.0,1.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,30.0,4.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Centro oriental,Mujer,Barrios Unidos,62.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Fontibón,59.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Mujer,Candelaria,25.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,37.0,1.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Norte,Mujer,Usaquén,46.0,5.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Carro
+Occidental,Mujer,Kennedy,28.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Centro,Mujer,Santa Fe,47.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Chapinero,21.0,6.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro,Mujer,Los Mártires,46.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Transmilenio
+Sur oriental,Mujer,Usme,31.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro oriental,Mujer,Barrios Unidos,55.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Norte,Mujer,Usaquén,42.0,4.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,32.0,1.0,1,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Moto particular
+Centro oriental,Mujer,Chapinero,45.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Norte,Mujer,Suba,19.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Antonio Nariño,60.0,3.0,0,Neutro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,38.0,2.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro oriental,Mujer,Teusaquillo,36.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Centro,Mujer,Santa Fe,35.0,4.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro,Mujer,Santa Fe,39.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,31.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Fontibón,37.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Bicicleta
+Centro,Mujer,Santa Fe,39.0,2.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Occidental,Mujer,Fontibón,32.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Bicicleta
+Occidental,Mujer,Kennedy,20.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Sur oriental,Mujer,San Cristóbal,32.0,2.0,0,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,43.0,2.0,1,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,45.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Taxi
+Sur occidental,Mujer,Bosa,41.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Occidental,Mujer,Kennedy,52.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Plataformas digitales
+Sur oriental,Mujer,Antonio Nariño,54.0,3.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Bosa,50.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Inseguro,1,SITP
+Sur oriental,Mujer,Antonio Nariño,58.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Taxi
+Centro oriental,Mujer,Chapinero,30.0,5.0,1,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Occidental,Mujer,Kennedy,33.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Moto particular
+Sur occidental,Mujer,Tunjuelito,65.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,73.0,1.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Occidental,Mujer,Fontibón,24.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Moto particular
+Centro oriental,Mujer,Barrios Unidos,54.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,Seguro,0,Transmilenio
+Occidental,Mujer,Engativá,57.0,3.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Mujer,Kennedy,40.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Bosa,65.0,2.0,0,Neutro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Centro oriental,Mujer,Barrios Unidos,64.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Sur oriental,Mujer,Usme,35.0,1.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Occidental,Mujer,Kennedy,45.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,Transmilenio
+Occidental,Mujer,Engativá,63.0,2.0,0,Seguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,64.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,Usme,76.0,2.0,1,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Engativá,25.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Centro oriental,Mujer,Barrios Unidos,57.0,3.0,0,Inseguro,0.0,0.0,1.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,0,SITP
+Sur occidental,Mujer,Bosa,73.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Bosa,55.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur occidental,Mujer,Bosa,26.0,2.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Tunjuelito,31.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Centro,Mujer,Santa Fe,68.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,42.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Fontibón,60.0,2.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Mujer,Puente Aranda,85.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Centro oriental,Mujer,Chapinero,27.0,6.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,37.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Bicicleta
+Sur oriental,Mujer,San Cristóbal,39.0,2.0,0,Neutro,1.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,SITP
+Sur occidental,Mujer,Bosa,38.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Occidental,Mujer,Kennedy,52.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,SITP
+Centro oriental,Mujer,Barrios Unidos,76.0,3.0,1,Neutro,0.0,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Los Mártires,71.0,3.0,1,Inseguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur occidental,Mujer,Ciudad Bolívar,49.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Usme,35.0,1.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,SITP
+Occidental,Mujer,Fontibón,40.0,3.0,1,Inseguro,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Centro oriental,Mujer,Chapinero,35.0,1.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Taxi
+Centro,Mujer,Puente Aranda,69.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Mujer,Puente Aranda,29.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,Usme,22.0,2.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,1.0,Inseguro,1,Transmilenio
+Sur occidental,Mujer,Bosa,79.0,2.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Norte,Mujer,Usaquén,19.0,5.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Centro,Mujer,Candelaria,18.0,2.0,0,Seguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,61.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,35.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro,Mujer,Puente Aranda,59.0,3.0,0,Inseguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Sur oriental,Mujer,San Cristóbal,24.0,2.0,1,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Mujer,San Cristóbal,23.0,2.0,0,Inseguro,0.0,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Centro oriental,Mujer,Chapinero,62.0,4.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Plataformas digitales
+Occidental,Mujer,Kennedy,54.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Sur occidental,Mujer,Ciudad Bolívar,20.0,2.0,0,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Engativá,21.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Bicicleta
+Centro,Mujer,Puente Aranda,24.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Sur occidental,Mujer,Bosa,38.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Sur occidental,Mujer,Ciudad Bolívar,49.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,65.0,4.0,1,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Caminar
+Sur occidental,Mujer,Ciudad Bolívar,54.0,2.0,0,Inseguro,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Teusaquillo,45.0,4.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bicicleta
+Centro,Mujer,Puente Aranda,52.0,3.0,1,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,SITP
+Sur oriental,Mujer,Rafael Uribe Uribe,18.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,69.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,34.0,3.0,0,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Centro,Mujer,Los Mártires,71.0,3.0,1,Neutro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,SITP
+Centro,Mujer,Los Mártires,34.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Norte,Mujer,Suba,52.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,37.0,3.0,0,Seguro,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Norte,Mujer,Suba,46.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro,Mujer,Los Mártires,21.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Inseguro,1,SITP
+Occidental,Mujer,Engativá,30.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Centro oriental,Mujer,Teusaquillo,28.0,4.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,1,SITP
+Centro oriental,Mujer,Chapinero,24.0,4.0,0,Inseguro,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Bicicleta
+Occidental,Mujer,Kennedy,21.0,2.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Sur oriental,Mujer,Usme,80.0,2.0,0,Neutro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Transmilenio
+Norte,Mujer,Suba,39.0,4.0,0,Seguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Bicicleta
+Norte,Mujer,Suba,24.0,2.0,1,Inseguro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,1,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,27.0,3.0,0,Neutro,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,SITP
+Sur oriental,Mujer,Usme,55.0,2.0,0,Inseguro,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Fontibón,56.0,4.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,49.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,SITP
+Norte,Mujer,Suba,30.0,2.0,0,Seguro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,SITP
+Centro oriental,Mujer,Chapinero,34.0,4.0,1,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Occidental,Mujer,Kennedy,40.0,2.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Occidental,Mujer,Kennedy,53.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Carro
+Occidental,Mujer,Engativá,28.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Inseguro,0,Transmilenio
+Centro,Mujer,Santa Fe,58.0,3.0,0,Neutro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Occidental,Mujer,Kennedy,52.0,2.0,1,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Caminar
+Norte,Mujer,Suba,24.0,5.0,0,Neutro,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Carro
+Occidental,Mujer,Engativá,20.0,2.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,1,Moto particular
+Centro oriental,Mujer,Chapinero,22.0,6.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Carro
+Sur oriental,Mujer,San Cristóbal,50.0,2.0,1,Inseguro,0.0,1.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,1,Transmilenio
+Sur oriental,Mujer,Antonio Nariño,36.0,3.0,0,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,65.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Seguro,0,Bus/Buseta/Micro/Ejecutivo/Colectivo (colectivos de Soacha y otros municipios)
+Sur occidental,Mujer,Bosa,61.0,1.0,1,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Sur occidental,Mujer,Tunjuelito,55.0,3.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Neutro,0,Transmilenio
+Occidental,Mujer,Kennedy,29.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
+Occidental,Mujer,Kennedy,21.0,2.0,0,Seguro,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Neutro,0,Transmilenio
+Occidental,Mujer,Fontibón,18.0,2.0,0,Neutro,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Caminar
+Centro,Mujer,Puente Aranda,32.0,3.0,0,Inseguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,Seguro,0,Transmilenio
+Occidental,Mujer,Kennedy,64.0,2.0,1,Inseguro,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,1,Transmilenio
+Sur oriental,Mujer,Rafael Uribe Uribe,52.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Centro oriental,Mujer,Barrios Unidos,67.0,4.0,1,Seguro,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Transmilenio
+Sur oriental,Mujer,San Cristóbal,70.0,2.0,0,Inseguro,0.0,1.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,Neutro,0,SITP
+Occidental,Mujer,Engativá,41.0,3.0,0,Seguro,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,Seguro,0,SITP
+Occidental,Mujer,Kennedy,58.0,3.0,0,Neutro,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,Taxi
+Occidental,Mujer,Kennedy,29.0,3.0,0,Inseguro,0.0,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,Inseguro,0,SITP
